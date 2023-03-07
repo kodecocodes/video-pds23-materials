@@ -9,6 +9,6 @@ Each edition has its own branch, named `versions/[VERSION]`. The default branch 
 
 ## Release History
 
-| Branch                                                                                  | Version | Release Date |
-| --------------------------------------------------------------------------------------- |:-------:|:------------:|
-| [versions/1.0](https://github.com/kodecocodes/video-TODO-materials/tree/versions/1.0) | 1.0     | YYYY-MM-DD   |
+| Speaker                                                                                  | Release Date |
+| --------------------------------------------------------------------------------------- |:------------:|
+| [Pamela Hill](https://github.com/kodecocodes/video-pds23-materials/tree/versions/1.0/01-pamela-hill) | 2023-02-16   |
