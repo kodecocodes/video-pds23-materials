@@ -8,3 +8,4 @@ This repo contains all the downloadable materials and projects associated with t
 | Speaker                                                                                  | Release Date |
 | --------------------------------------------------------------------------------------- |:------------:|
 | [Pamela Hill](https://github.com/kodecocodes/video-pds23-materials/tree/versions/1.0/01-pamela-hill) | 2023-02-16   |
+| People-First Leadership (no materials) | 2023-04-27   |
